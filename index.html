@@ -29,8 +29,8 @@
 
   <body>
         <!-- navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">Navbar</a>
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color:rgba(0,0,0,0.85)">
+            <a class="navbar-brand" href="/">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -48,6 +48,30 @@
             </ul>
             </div>
         </nav>
+
+        <!-- full height hero image -->
+        <!-- id=top marks it as the top of the page, so when you click on the Navbar button (line33) you are brought all the way back here -->
+        <section id="top" class="bg-one">
+            <div class="container h-100">
+              <div class="row h-100 align-items-center m-0">
+                <div class="col-12 text-center">
+                  <h1 class="text-white" style="font-size: 70px;">Welcome to my site!</h1>
+                <h3 class="text-white">We like
+                    <span
+                     class="txt-rotate text-white"
+                     data-period="850"
+                     data-rotate='[
+                        "avocados",
+                        "bananas",
+                        "grapes",
+                        "skipping lectures"
+                         ]'></span></h3>
+                    <!-- href brings you to a section that doesn't exist yet -->
+                    <a class="btn btn-outline-light btn-lg m-5" href="#About" role="button">Learn More</a>
+                </div>
+              </div>
+            </div>
+          </section>
   
       
         <!-- Optional JavaScript -->
