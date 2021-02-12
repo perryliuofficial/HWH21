@@ -6,6 +6,7 @@ Materials for front-end web devevelopment workshop for Hello World Hack 2021 @Ed
 [Bootstrap 4 Example Sites](https://expo.getbootstrap.com/)<br/>
 [Bootstrap 4 Free Templates](https://startbootstrap.com/themes)<br/>
 [Bootstrap 4 Components Guide](https://getbootstrap.com/docs/5.0/components/accordion/)<br/>
+[Favicon Generator](https://favicon.io/)<br/>
 [Font Awesome](https://fontawesome.com/)<br/>
 [GitHub Student Pack](https://education.github.com/pack)
 
