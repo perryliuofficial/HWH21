@@ -12,3 +12,18 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bg-two {
+    background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url(../img/header-bg.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-device-width: 1366px) {
+    .bg-one, .bg-two {
+      background-attachment: scroll;
+    }
+  }
