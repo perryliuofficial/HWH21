@@ -11,7 +11,7 @@ Materials for front-end web devevelopment workshop for Hello World Hack 2021 @Ed
 [Font Awesome](https://fontawesome.com/)<br/>
 [GitHub Student Pack](https://education.github.com/pack)
 
-Game Dev Workshop:
+Game Dev Workshop:<br/>
 [Youtube series with source code](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)<br/>
 [My Spin on That - Source Code](https://github.com/perryliuofficial/Bullet-Maze-Game-Jam)<br/>
 [My Spin on That - Playable](https://perryliuofficial.itch.io/bullet-maze-game-jam)
